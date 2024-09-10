@@ -1,0 +1,14 @@
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\bin\Debug\net8.0\estágio.exe
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\bin\Debug\net8.0\estágio.deps.json
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\bin\Debug\net8.0\estágio.runtimeconfig.json
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\bin\Debug\net8.0\estágio.dll
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\bin\Debug\net8.0\estágio.pdb
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\obj\Debug\net8.0\estágio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\obj\Debug\net8.0\estágio.AssemblyInfoInputs.cache
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\obj\Debug\net8.0\estágio.AssemblyInfo.cs
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\obj\Debug\net8.0\estágio.csproj.CoreCompileInputs.cache
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\obj\Debug\net8.0\estágio.dll
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\obj\Debug\net8.0\refint\estágio.dll
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\obj\Debug\net8.0\estágio.pdb
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\obj\Debug\net8.0\estágio.genruntimeconfig.cache
+C:\Users\selau\OneDrive\Área de Trabalho\estágio\obj\Debug\net8.0\ref\estágio.dll
